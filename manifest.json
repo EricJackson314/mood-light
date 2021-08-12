@@ -1,0 +1,7 @@
+{
+    "name": "mood light",
+    "version": "0.0.1",
+    "description": "Set the mood with our cool new light",
+    "platforms": "cypress",
+    "category": "testing"
+}
